@@ -1,0 +1,182 @@
+﻿Projektplan
+Målsättning/kravspec[a][b]
+Målsättningen är i grunden att skapa en funktionell och estetiskt tilltalande plattform som vi kan använda för att visa vad vi kan för framtida arbetsgivare. Denna portfolio kommer bestå av fyra sidor.
+
+
+En första sida där slutanvändaren kort får information om sidans syfte. Sidan kommer vara utformad på ett sätt att en slutanvändare intuitivt kan använda den. Sidan kommer innehålla en förvisning av det senast projektet eller möjligtvis ett projekt som vi specifikt vill visa upp. Sidan kommer också dela en navigationskomponent med alla andra sidor så att slutanvändaren kan ta sig dit han vill.
+
+
+En sida kommer fungera som primär söksida bland projekten. Här kommer alla genomförda projekt finnas tillgängliga i en lista. De kommer först presenteras i ett kompakt utförande för att sedan länka vidare till en sida som visar projektet i sin helhet. I den kompakta vyn kommer en kort beskrivning finnas att läsa, vyn kommer också inkludera en mindre bild, datum, grupp och tekniker. Sidan kommer också erbjuda användare att sortera och filtrera projekten så att han/hon kan se det som är intressant. Även sökning i fritext kommer erbjudas.
+
+
+En sida som visar ett projekt i sin helhet. Här kommer en ingående beskrivning av projektet finnas. Tekniker, genomförande och funktionalitet kommer beskrivas. Här kan användaren också se projektet köras i en film eller på annat sätt få en uppfattning om hur slutprodukten ser ut. Relaterade projekt, preliminärt tre sycken, kommer länkas från denna projektsidan så att en användare som vill se mer lätt kommer vidare till detta. Varje projekt kommer också ha en kort beskrivning för så att användaren lätt kan få en överblick av projektet.
+
+
+En sida kommer fokusera på olika tekniker. Här kommer användaren lätt kunna få en uppfattning av vilka tekniker vi är bekanta med och i vilka projekt vi har använt dessa. Användaren kommer också enkelt att kunna komma vidare till projekten där de kan se exemple på hur vi använt/implementerat dessa tekniker.
+
+
+Om hemsidan skulle stöta på ett felmeddelande så kommer detta felmeddelande vara begripligt och upplysande för slutanvändaren.
+________________
+Delmål
+Vecka 36
+Total tid med TDP003: 9h
+
+
+6h:
+Inläsning i dokument på kurshemsidan. Grundläggande projektplan skrivs
+
+
+Torsdag
+Projektplan fastställs senast 23:59
+
+
+Fredag
+2h:
+För att förbereda oss inför kommande arbete kommer vi att genomföra installation av Subversion, GIMP samt kontrollera att vår Emacs stödjer Subversion. Verifiering av att installationen gått bra.
+
+
+1h:
+Under denna eller möjligen kommande vecka kommer vi behöva bekanta oss med Git så att vi på ett bra sätt kan dokumentera arbetet.
+
+
+Vecka 37
+Total tid med TDP003: 20h
+6h
+Efter att ha börjat sätta oss in i arbetet lite mera så kommer vi att under vecka 37 fortsätta med att utveckla denna projektplan. Under torsdagen så ska våran Lo-fi sketch över hemsidan vara färdig. Tanken med denna lo-fi är att göra en övergripande ritning på hur de olika designelementen på sidan ska vara placerade samt utformade. 
+
+
+2h
+Vi kommer även att börja bekanta oss med Flask som är ett web application framework skrivet i Python. 
+
+
+2h
+Vi kommer även att börja bekanta oss med Jinja2 som är är en “template engine”, dvs den tar ett template och data och sammanställer detta till ett dokument.
+
+
+10h
+koda något typ eller arbeta med html front end
+
+
+
+
+Vecka 38
+Total tid med TDP003: 20h
+2h
+Introduktion av projektets indelning i delsystem. Denna vecka sätter vi in oss i datalagret på kursen. 
+
+
+8h
+Börja koda datalagret i Python. 
+
+
+3h
+Vi kommer denna vecka bekanta oss med motorn för vårt mallspråk, Jinja2.
+
+
+4h
+Färdigställer tids- och projektplan.
+
+
+Torsdag
+Deadline dokument 23:59
+
+
+Fredag
+3h
+Självsatt deadline html front end klar
+
+
+Vecka 39
+Total tid med TDP003: 20h
+2h
+Under denna veckan står ett par saker på schemat. Vi kommer ha en introduktion av presentationslagret vilket i vårt fall är CSS, här antar vi att information om hur vi ska använda CSS kommer att förmedlas. 
+
+
+2h
+Ramverk och verktyg som behövs för projektet kommer att  installeras så att vi under de kommande veckorna kan använda dom för att arbeta med sidan. Installationsprocessen dokumenteras gemensamt i en installationsmanual av alla i klassen som en del av projektet.
+
+
+1h
+Gemensam projektdatabas utarbetas också.
+
+
+13h
+Fokus denna vecka är presentationslagret
+
+
+2h
+samt att gemensamt som grupp förbättra installationsmanual och projektdatabas.
+
+
+Fredag
+Självsatt mjuk deadline för presentationslagret.
+
+
+Vecka 40
+Total tid med TDP003: 20h
+1h
+Under veckan kommer vi installera och kortfattat bekanta oss med Firebug och Selenium
+
+
+15h
+Koda datalager
+
+
+Torsdag
+Datalager redovisas för assistent.
+
+
+23:59 deadline korrigera brister i installationsmanualen.
+
+
+Fredag
+4h
+Fel som hittades på torsdag är fixade och ny redovisning.
+
+
+Vecka 41
+Total tid med TDP003: 20h
+1h
+Den kontinerliga dokumentationen av vår kod skall kontrolleras denna vecka så att andra lätt kan sätta sig in i koden. Efter kontroll justerar vi brister.
+
+
+4h
+arbete med systemdokumentation
+
+
+Torsdag
+Deadline för inlämning av sysdokumentation. Se vägledning.
+
+
+Fredag
+Seminarium med gemensam bedömning av sysdokumentation.
+
+
+15h
+Självsatt deadline för att projektet skall fungera. (mjuk deadline)
+
+
+Vecka 42
+Total tid med TDP003: 10h
+Bra om vi kan trappa ner runt här så vi kan spendera tid att förbereda oss på tenta i 002.
+
+
+10h
+Arbetar med att säkerställa att allt fungerar och komplettera vår dokumentation.
+
+
+Torsdag
+Nu ska projektet fungera. (hård deadline)
+
+
+Vecka 43
+5h
+Reflektionsdokument fastställs
+
+
+Måndag
+23:59 deadline för färdigställd system- och testdokumentation.
+Torsdag
+deadline för reflektionsdokument.
+[a]Drog in lite sådant här som jag mer eller mindre trodde vi kunde vara överens om rörande funktionalitet.
+[b]Jag fixade v 37 och 39. Googlade lite vad skaer betyder och så.
